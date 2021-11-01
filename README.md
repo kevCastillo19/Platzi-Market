@@ -1,4 +1,4 @@
-# 📧 BTOmail
+# 🏪 Platzi Market
 Platzi Market es un proyecto de Java Spring Boot que desarrolle durante el Platzi Day, con la oportunidad de reforzar mis conocimientos tome el curso de Java Spring y pude desarrollar una api restfull completa
 
 ## Tecnologías
